@@ -9,6 +9,7 @@
     },
     "extra": {
         "component": {
+            "name": "normalize-css",
             "styles": [
                 "normalize.css"
             ]
