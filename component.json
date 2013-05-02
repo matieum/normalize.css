@@ -5,7 +5,8 @@
     "repo": "components/normalize.css",
     "author": "Nicolas Gallagher",
     "homepage": "http://necolas.github.com/normalize.css/",
-    "main": "normalize.css",
-    "styles": ["normalize.css"],
+    "styles": [
+      "normalize.css"
+    ],
     "license": "MIT"
 }
