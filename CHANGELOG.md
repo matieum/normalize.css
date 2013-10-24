@@ -1,5 +1,10 @@
 == HEAD
 
+=== 2.1.3 (August 26, 2013)
+
+* Fix component.json.
+* Remove the gray background color from active links in IE 10.
+
 == 2.1.2 (May 11, 2013)
 
 * Revert root `color` and `background` normalizations.
